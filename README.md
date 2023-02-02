@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SnappyEGR
 - 👀 I’m interested in Minecraft and other video games.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on Minecraft plugins.
-- 📫 How to reach me egr1365@gmail.com.
+- 💞️ I’m looking to collaborate on school projects.
+- 📫 How to reach me egr1365@gmail.com or richmond.emma.g@gmail.com.
 
 <!---
 SnappyEGR/SnappyEGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
