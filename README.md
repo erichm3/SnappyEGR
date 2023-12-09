@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SnappyEGR
-- 👀 I’m interested in Minecraft and other video games.
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on school projects.
-- 📫 How to reach me egr1365@gmail.com or richmond.emma.g@gmail.com.
+- Hi, I’m Emma Richmond.
+- I'm currently at Towson University for a Computer Science - Software Engineering BS.
+- I’m looking to collaborate on school projects.
+- Reach me at richmond.emma.g@gmail.com.
 
 <!---
 SnappyEGR/SnappyEGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
